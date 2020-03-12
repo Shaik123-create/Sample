@@ -1,4 +1,0 @@
-# Sample
-hiiiii
-hellooo
-evng
